@@ -1,6 +1,10 @@
 
 # Orange Network Template Change Log
 
+## [1.0.2] - 2017-04-20
+
+- Added extension points on post index renderer.
+
 ## [1.0.1] - 2017-04-19
 
 - CSS fixes.
