@@ -1,5 +1,9 @@
 
-# Orange Network Template Change Log
+# Blue Network Template Change Log
+
+## [1.0.4] - 2017-04-22
+
+- Added extension point.
 
 ## [1.0.3] - 2017-04-21
 
