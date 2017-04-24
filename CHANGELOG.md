@@ -1,6 +1,11 @@
 
 # Blue Network Template Change Log
 
+## [1.1.1] - 2017-04-24
+
+- Fixed issue in admin template.
+- Dimmed background color.
+
 ## [1.1.0] - 2017-04-23
 
 - Fixed navigation issues on single post comments.
