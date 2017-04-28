@@ -48,7 +48,7 @@ header("Content-Type: text/html; charset=utf-8"); ?>
     <script type="text/javascript"          src="<?= $config->full_root_path ?>/media/notification_functions~v<?=$config->engine_version?>.js"></script>
 
     <!-- This template -->
-    <? $css_version = "1.0.2-2"; ?>
+    <? $css_version = "1.0.2-3"; ?>
     <link rel="stylesheet" type="text/css" href="<?= $template->url ?>/media/styles~v<?= $css_version ?>.css">
     <link rel="stylesheet" type="text/css" href="<?= $template->url ?>/media/post_styles~v<?= $css_version ?>.css">
     <link rel="stylesheet" type="text/css" href="<?= $template->url ?>/media/colors~v<?= $css_version ?>.css">
