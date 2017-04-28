@@ -1,6 +1,11 @@
 
 # Blue Network Template Change Log
 
+## [1.2.0]
+
+- Added actions to single post comments.
+- Replaced background color.
+
 ## [1.1.1] - 2017-04-24
 
 - Fixed issue in admin template.
