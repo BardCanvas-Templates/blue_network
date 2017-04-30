@@ -1,7 +1,12 @@
 
 # Blue Network Template Change Log
 
-## [1.2.0]
+## [1.3.0] - 2017-04-29
+
+- Switched jQuery-UI theme to "Cupertino"
+- Removed local common header and included the one from the engine.
+
+## [1.2.0] - 2017-04-28
 
 - Added actions to single post comments.
 - Replaced background color.
