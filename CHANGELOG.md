@@ -1,6 +1,10 @@
 
 # Blue Network Template Change Log
 
+## [1.5.3] - 2017-07-07
+
+- CSS tuning.
+
 ## [1.5.2] - 2017-06-27
 
 - Added complementary info and screenshot.
